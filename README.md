@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="DARK_BANNER_URL">
-    <source media="(prefers-color-scheme: light)" srcset="LIGHT_BANNER_URL">
     <img src="./images/header.png" alt="Sahil Patel — Senior Software Developer" />
-  </picture>
 </p>
 
 <h1 align="center">
@@ -82,5 +78,3 @@ I share insights on engineering, architecture, and frontend development on Mediu
 
 📍 Toronto, Canada  
 📧 connect2sahilpatel@gmail.com  
-
----
