@@ -52,34 +52,40 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" valign="top">
       <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" alt="How to Scale Application to Support Millions of Users" width="100%" />
+        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
       </a>
-      <h3>🚀 How to Scale Application to Support Millions of Users</h3>
-      <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670" target="_blank">
-        <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
-      </a>
+      <h3 align="center">🚀 How to Scale Application to Support Millions of Users</h3>
+      <p align="center">
+        <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670" target="_blank">
+          <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
+        </a>
+      </p>
     </td>
 
-    <td width="33%">
+    <td width="33%" valign="top">
       <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-part-2-156a921f7ed3" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" alt="How to Scale Application to Support Millions of Users — Part 2" width="100%" />
+        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
       </a>
-      <h3>⚙️ How to Scale Application — Part 2</h3>
-      <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-part-2-156a921f7ed3" target="_blank">
-        <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
-      </a>
+      <h3 align="center">⚙️ How to Scale Application — Part 2</h3>
+      <p align="center">
+        <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-part-2-156a921f7ed3" target="_blank">
+          <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
+        </a>
+      </p>
     </td>
 
-    <td width="33%">
+    <td width="33%" valign="top">
       <a href="https://sahil-code.medium.com/system-design-interview-yelp-tripadvisor-or-nearby-places-7a0c1e94729" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" alt="System Design Interview: Yelp / TripAdvisor / Nearby Places" width="100%" />
+        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
       </a>
-      <h3>📍 System Design: Yelp / TripAdvisor / Nearby Places</h3>
-      <a href="https://sahil-code.medium.com/system-design-interview-yelp-tripadvisor-or-nearby-places-7a0c1e94729" target="_blank">
-        <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
-      </a>
+      <h3 align="center">📍 System Design: Yelp / TripAdvisor / Nearby Places</h3>
+      <p align="center">
+        <a href="https://sahil-code.medium.com/system-design-interview-yelp-tripadvisor-or-nearby-places-7a0c1e94729" target="_blank">
+          <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
