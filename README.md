@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="DARK_BANNER_URL">
     <source media="(prefers-color-scheme: light)" srcset="LIGHT_BANNER_URL">
-    <img src="LIGHT_BANNER_URL" alt="Sahil Patel — Senior Software Developer" />
+    <img src="./images/header.png" alt="Sahil Patel — Senior Software Developer" />
   </picture>
 </p>
 
@@ -84,11 +84,3 @@ I share insights on engineering, architecture, and frontend development on Mediu
 📧 connect2sahilpatel@gmail.com  
 
 ---
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="DARK_FOOTER_URL">
-    <source media="(prefers-color-scheme: light)" srcset="LIGHT_FOOTER_URL">
-    <img src="LIGHT_FOOTER_URL" alt="Footer Banner" />
-  </picture>
-</p>
