@@ -68,21 +68,13 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # ✍️ Writing & Articles
 
 I share insights on engineering, architecture, and frontend development on Medium.
 
-🔗 Medium: *Add your link*  
-🔗 LinkedIn: *Add your link*  
+🔗 Medium: *https://sahil-code.medium.com*  
+🔗 LinkedIn: *https://linkedin.com/in/sahil-code*  
 
 ---
 
