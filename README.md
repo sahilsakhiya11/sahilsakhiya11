@@ -48,7 +48,6 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
   <img src="https://skillicons.dev/icons?i=jest" height="40" />
 </p>
 
-
 # 📝 Featured Articles
 
 <table>
@@ -90,9 +89,6 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
     <img src="https://img.shields.io/badge/Read%20More%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
-
-
----
 
 
 # 📫 Connect With Me
