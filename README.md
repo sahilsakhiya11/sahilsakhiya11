@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=sahilsakhiya11&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/sahilsakhiya11?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/sahilsakhiya11?style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -25,27 +25,27 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,materialui,bootstrap,storybook" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,materialui,bootstrap,storybook" height="20" />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql,apollo" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql,apollo" height="20" />
 </p>
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="20" />
 </p>
 
 ### **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git" height="20" />
 </p>
 
 ### **Testing & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=jest" height="40" />
+  <img src="https://skillicons.dev/icons?i=jest" height="20" />
 </p>
 
 <h1 align="center">📝 Featured Articles</h1>
@@ -54,9 +54,6 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
 
   <!-- Article 1 -->
   <div style="width: 300px;">
-    <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670" target="_blank">
-      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
-    </a>
     <h3 align="center">🚀 How to Scale Application to Support Millions of Users</h3>
     <p align="center">
       <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670" target="_blank">
@@ -67,9 +64,6 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
 
   <!-- Article 2 -->
   <div style="width: 300px;">
-    <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-part-2-156a921f7ed3" target="_blank">
-      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
-    </a>
     <h3 align="center">⚙️ How to Scale Application — Part 2</h3>
     <p align="center">
       <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-part-2-156a921f7ed3" target="_blank">
@@ -80,9 +74,6 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
 
   <!-- Article 3 -->
   <div style="width: 300px;">
-    <a href="https://sahil-code.medium.com/system-design-interview-yelp-tripadvisor-or-nearby-places-7a0c1e94729" target="_blank">
-      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
-    </a>
     <h3 align="center">📍 System Design: Yelp / TripAdvisor / Nearby Places</h3>
     <p align="center">
       <a href="https://sahil-code.medium.com/system-design-interview-yelp-tripadvisor-or-nearby-places-7a0c1e94729" target="_blank">
