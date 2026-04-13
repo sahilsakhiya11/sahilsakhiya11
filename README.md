@@ -48,47 +48,50 @@ I love working with modern JavaScript frameworks, cloud technologies, and clean 
   <img src="https://skillicons.dev/icons?i=jest" height="40" />
 </p>
 
-# 📝 Featured Articles
+<h1 align="center">📝 Featured Articles</h1>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+  <!-- Article 1 -->
+  <div style="width: 300px;">
+    <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670" target="_blank">
+      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
+    </a>
+    <h3 align="center">🚀 How to Scale Application to Support Millions of Users</h3>
+    <p align="center">
       <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
+        <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
       </a>
-      <h3 align="center">🚀 How to Scale Application to Support Millions of Users</h3>
-      <p align="center">
-        <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670" target="_blank">
-          <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
+    </p>
+  </div>
 
-    <td width="33%" valign="top">
+  <!-- Article 2 -->
+  <div style="width: 300px;">
+    <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-part-2-156a921f7ed3" target="_blank">
+      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
+    </a>
+    <h3 align="center">⚙️ How to Scale Application — Part 2</h3>
+    <p align="center">
       <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-part-2-156a921f7ed3" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
+        <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
       </a>
-      <h3 align="center">⚙️ How to Scale Application — Part 2</h3>
-      <p align="center">
-        <a href="https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-part-2-156a921f7ed3" target="_blank">
-          <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
+    </p>
+  </div>
 
-    <td width="33%" valign="top">
+  <!-- Article 3 -->
+  <div style="width: 300px;">
+    <a href="https://sahil-code.medium.com/system-design-interview-yelp-tripadvisor-or-nearby-places-7a0c1e94729" target="_blank">
+      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
+    </a>
+    <h3 align="center">📍 System Design: Yelp / TripAdvisor / Nearby Places</h3>
+    <p align="center">
       <a href="https://sahil-code.medium.com/system-design-interview-yelp-tripadvisor-or-nearby-places-7a0c1e94729" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*8pFazc2DSES0Z0YtDrfD6A.png" width="100%" />
+        <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
       </a>
-      <h3 align="center">📍 System Design: Yelp / TripAdvisor / Nearby Places</h3>
-      <p align="center">
-        <a href="https://sahil-code.medium.com/system-design-interview-yelp-tripadvisor-or-nearby-places-7a0c1e94729" target="_blank">
-          <img src="https://img.shields.io/badge/Read%20Article-6A5ACD?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+    </p>
+  </div>
+
+</div>
 
 <p align="center">
   <a href="https://sahil-code.medium.com" target="_blank">
